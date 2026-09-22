@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MY AREA",
+    "slug": "my-area-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#FAF7F2" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": false },
+    "android": { "package": "com.myarea.app" }
+  }
+}
