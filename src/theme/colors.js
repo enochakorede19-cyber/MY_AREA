@@ -2,6 +2,8 @@ export const COLORS = {
   bg: "#FAF7F2",
   ink: "#161E1B",
   inkSoft: "#5B6864",
+  text: "#161E1B",
+  muted: "#5B6864",
   teal: "#0E5C4C",
   tealDeep: "#0A4038",
   amber: "#FF7A33",
